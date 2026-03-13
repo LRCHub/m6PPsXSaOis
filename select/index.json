@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ナイトシャドウ・コンフリクト",
+  "base_artist": "SiLENT←NOiSE",
+  "createdAt": "2026-03-13T02:50:04.619270Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナイトシャドウ・コンフリクト",
+      "artist": "SiLENT←NOiSE",
+      "has_synced": false,
+      "path": "select/pl_01_ナイトシャドウ・コンフリクト_SiLENT←NOiSE.txt"
+    }
+  ]
+}
